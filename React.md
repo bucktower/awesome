@@ -28,6 +28,6 @@ $ npx create-react-app my-app --template typescript
 
 [Animations](https://animista.net/)
 
-[Color Palettes](https://coolors.co/)
+[Color Palettes](https://coolors.co/) [More colors](https://colorhunt.com)
 
 [Image Optimization](https://imagecompressor.com/)
